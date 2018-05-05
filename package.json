@@ -1,0 +1,23 @@
+{
+  "name": "starwars-heroku",
+  "version": "1.0.0",
+  "description": "heroku app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robertas-Plynius/starwars-heroku.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robertas-Plynius/starwars-heroku/issues"
+  },
+  "homepage": "https://github.com/Robertas-Plynius/starwars-heroku#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
